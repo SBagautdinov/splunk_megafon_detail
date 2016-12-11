@@ -5,3 +5,8 @@ modtime = 1481454773.494947200
 [app/launcher]
 version = 6.5.0
 modtime = 1481454773.526198000
+
+[indexes/megafon]
+owner = admin
+version = 6.5.0
+modtime = 1481482666.786673900
