@@ -10,3 +10,8 @@ modtime = 1481454773.526198000
 owner = admin
 version = 6.5.0
 modtime = 1481482666.786673900
+
+[inputs/monitor%3A%2F%2FC%3A%5CProgram%20Files%5CSplunk%5Cetc%5Capps%5CMegafon_detail%5Cinfo%5C4200_37413_27112016021122353_6952_470001.html]
+owner = admin
+version = 6.5.0
+modtime = 1482090867.225699400
