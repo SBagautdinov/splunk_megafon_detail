@@ -15,3 +15,9 @@ modtime = 1481482666.786673900
 owner = admin
 version = 6.5.0
 modtime = 1482090867.225699400
+
+[savedsearches/Full_table]
+export = none
+owner = admin
+version = 6.5.0
+modtime = 1482177035.278241900
